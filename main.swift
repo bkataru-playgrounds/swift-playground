@@ -10,3 +10,7 @@ if points >= 15 {
 } else {
 	print("KEEP GOING")
 }
+
+if let t = title {
+	print("Title:", t)
+}
